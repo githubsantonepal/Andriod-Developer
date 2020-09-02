@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="result">Result</string>
+    <string name="plus">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">X</string>
+    <string name="divide">/</string>
+    <string name="enterFirstNumber">Enter First number</string>
+    <string name="enterSecondNumber">Enter Second Number</string>
+    <string name="todo">TODO</string>
+</resources>
